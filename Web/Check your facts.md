@@ -27,3 +27,4 @@ Connection: close
 query=space'+OR+1%3d1+--
 ```
 Make sure you give the query `space' OR 1=1 --`
+![image](https://github.com/LAVANYA-PIDIKITI/PECAN-_Main-Prelims/assets/98797256/634f69a2-f404-45bd-a1be-551e9127235e)
